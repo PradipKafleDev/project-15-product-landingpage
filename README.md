@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Pradip-Kafle)
 
-## Project 15 [Live Link](project-15-visual-designer-landingpage.netlify.app)
+## Project 15 [Live Link](https://project-15-product-landingpage.netlify.app/)
 
 
 #### Screenshot
